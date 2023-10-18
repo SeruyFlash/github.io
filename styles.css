@@ -1,0 +1,20 @@
+#logo {
+    position: relative;
+}
+.center-text {
+    text-align: center;
+    font-style: inherit;
+}
+.list {
+    font-style: italic;
+    text-align: left;
+    text-decoration: underline;
+    color: crimson;
+}
+#head {
+    color: darkred;
+}
+
+#button {
+    margin-outside: 10px;
+}
